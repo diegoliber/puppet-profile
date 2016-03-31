@@ -1,0 +1,13 @@
+{
+  "author": "diegoliber",
+  "dependencies": [],
+  "license": "Apache-2.0",
+  "name": "diegoliber-profile",
+  "operatingsystem_support": [],
+  "project_page": "",
+  "requirements": [],
+  "source": "git@www-git.prevnet:puppet/profile.git",
+  "summary": "Profiles example from diegoliber",
+  "tags": [],
+  "version": "0.1.0"
+}
